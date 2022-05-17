@@ -3,3 +3,8 @@
 3. git log - shows all the commits we have written
 4. git diff - compares working tree with staging area
 5. git rm filename - removes the file from the hard disk
+Short summary-
+The cs102 course brings a variety of sub topics from linux to basics of web development.
+Our course professor is Clint sir, it's a very interesting course.
+Hoping more such courses in the future semester and a better interaction in the 
+offline mode.
