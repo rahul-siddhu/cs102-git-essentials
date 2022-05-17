@@ -1,0 +1,5 @@
+1. git status - shows all the tracked and untracked files
+2. git checkout - revert back the changes which are there before the last commit statement
+3. git log - shows all the commits we have written
+4. git diff - compares working tree with staging area
+5. git rm filename - removes the file from the hard disk
